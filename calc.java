@@ -9,6 +9,7 @@ public class calc{
 		return a*b;
 	}
 	static float divide(float a,float b){
+		System.out.println(" **in divide** ");
 			return a/b;
 	}
 	public static void main(String args[])
