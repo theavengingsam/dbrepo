@@ -3,6 +3,7 @@ public class calc{
 		return a+b;
 	}
 	static float subtract(float a,float b){
+		System.out.println(" **in subtract** ");
 		return a-b;
 	}
 	static float multiply(float a,float b){
